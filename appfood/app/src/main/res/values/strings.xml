@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appfood</string>
+    <string name="gi_h_ng_c_a_t_i">Giỏ hàng của tôi</string>
+    <string name="t_ng_ti_n">Tổng tiền :</string>
+    <string name="_0">0Đ</string>
+    <string name="th_ng_tin_kh_ch_h_ng">Thông tin khách hàng</string>
+</resources>

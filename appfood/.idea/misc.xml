@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable-v24/confirmclick.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable-v24/editclick.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable-v24/minusclick.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable-v24/plusclick.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable/addcardclick.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable/addclick.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable/boder.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable/boder2.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable/button_background.xml" value="0.12037037037037036" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable/button_background1.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable/button_background2.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable/cameraclick.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable/cancelclick.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable/cartclick.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable/edittext.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable/ic_launcher_background.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable/loginclick.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable/logoutclick.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable/orderclick.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/drawable/photoclick.xml" value="0.11018518518518519" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/activity_cart.xml" value="0.25" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/activity_contact.xml" value="0.2" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/activity_customer.xml" value="0.25" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/activity_customer_product.xml" value="0.18" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/activity_drink.xml" value="0.1" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/activity_food.xml" value="0.22" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/activity_manage.xml" value="0.1" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/activity_order_manage.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/activity_product_add.xml" value="0.25" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/activity_product_manage.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/activity_product_update.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/details.xml" value="0.18" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/item_category.xml" value="0.1" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/item_food.xml" value="0.25" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/item_foodnew.xml" value="0.22" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/listview_cart.xml" value="0.25" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/listview_category.xml" value="0.1" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/listview_customer.xml" value="0.2050561797752809" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/listview_customer_product.xml" value="0.18" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/listview_drink.xml" value="0.18" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/listview_food.xml" value="0.22" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/lisview_product_manage.xml" value="0.22" />
+        <entry key="..\:/Users/duykhai/AndroidStudioProjects/appfood/app/src/main/res/layout/product_update.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

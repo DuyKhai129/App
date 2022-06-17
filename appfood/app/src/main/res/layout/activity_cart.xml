@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="10"
+    tools:context=".Activity.CartActivity"
+    android:background="@drawable/home">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/gi_h_ng_c_a_t_i"
+        android:textStyle="bold"
+        android:textSize="25sp"
+        android:textAlignment="center"
+        android:textColor="#ff3d00"
+        android:layout_marginTop="5dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="9">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_gravity="center"
+                    android:id="@+id/textViewNotification"
+                    android:textSize="25sp"
+                    android:text="Giỏ hàng của bạn còn trống"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#F44336"/>
+            <ListView
+                android:id="@+id/lvCart"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+            </ListView>
+        </FrameLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:gravity="center"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/t_ng_ti_n"
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:textColor="#373b54"/>
+
+        <TextView
+            android:id="@+id/tvTotal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/_0"
+            android:textColor="#CD261A"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+   <FrameLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content">
+       <Button
+           android:id="@+id/btPay"
+           android:layout_width="match_parent"
+           android:layout_height="55dp"
+           android:layout_margin="16dp"
+           android:background="@drawable/button_background"
+           android:text="Thanh toán"
+           android:textSize="25sp"
+           android:textColor="#ffffff"
+           android:textStyle="bold" />
+       <Button
+           android:id="@+id/btBuyNow"
+           android:layout_width="match_parent"
+           android:layout_height="55dp"
+           android:layout_margin="16dp"
+           android:background="@drawable/button_background2"
+           android:text="Mua ngay"
+           android:textSize="25sp"
+           android:textColor="#ffffff"
+           android:textStyle="bold" />
+   </FrameLayout>
+
+</LinearLayout>

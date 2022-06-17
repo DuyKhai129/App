@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.FoodActivity"
+    android:orientation="vertical"
+    android:background="@drawable/backgroundproduct">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolBarFood"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:title="Đồ ăn"
+        app:titleTextColor="#FFFFFF">
+        <ImageView
+            android:id="@+id/imgCart"
+            android:src="@drawable/cartclick"
+            android:layout_width="45dp"
+            android:layout_gravity="right"
+            android:layout_height="45dp">
+        </ImageView>
+    </androidx.appcompat.widget.Toolbar>
+    <ListView
+        android:layout_margin="5dp"
+        android:id="@+id/lvFood"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </ListView>
+</LinearLayout>
